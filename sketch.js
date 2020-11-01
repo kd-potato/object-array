@@ -27,7 +27,27 @@ function draw() {
     y0 -= dy0
     dy0 = 0.9 * -dy0
   }
-
+  if(ball0 >= height - 50) {
+    console.info('bounce')
+    y0 -= dy0
+    dy0 = 0.9 * -dy0
+  }if(ball0 >= height - 50) {
+    console.info('bounce')
+    y0 -= dy0
+    dy0 = 0.9 * -dy0
+  }if(ball0 >= height - 50) {
+    console.info('bounce')
+    y0 -= dy0
+    dy0 = 0.9 * -dy0
+  }if(ball0 >= height - 50) {
+    console.info('bounce')
+    y0 -= dy0
+    dy0 = 0.9 * -dy0
+  }if(ball0 >= height - 50) {
+    console.info('bounce')
+    y0 -= dy0
+    dy0 = 0.9 * -dy0
+  }
 
 
 }
